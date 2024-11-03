@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Database.iml" filepath="$PROJECT_DIR$/.idea/Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JPG-PDF Converter/.idea/JPG-PDF Converter.iml" filepath="$PROJECT_DIR$/../JPG-PDF Converter/.idea/JPG-PDF Converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../openCV Course/.idea/openCV Course.iml" filepath="$PROJECT_DIR$/../openCV Course/.idea/openCV Course.iml" />
     </modules>
   </component>
 </project>

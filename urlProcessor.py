@@ -5,7 +5,7 @@ import pandas as pd
 from openpyxl import load_workbook
 
 # File paths
-file_path = 'C:/Users/HR/Desktop/medica links.xlsx'  # Path to the Excel file you want to modify
+file_path = 'C:/Users/HR/Desktop/medicalinks2.xlsx'  # Path to the Excel file you want to modify
 new_sheet_name = 'sortedLinks'  # The name for the new sheet to be created
 
 # Load the existing workbook
